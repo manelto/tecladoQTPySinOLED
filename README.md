@@ -1,3 +1,3 @@
 # tecladoQTPySinOLED
-another macrokeyboard  with circuitpython
-the 3D filas are in https://www.prusaprinters.org/prints/136136-another-macrokey-this-time-whitout-oled
+Another macrokeyboard  with circuitpython.
+The 3D files are in https://www.prusaprinters.org/prints/136136-another-macrokey-this-time-whitout-oled
